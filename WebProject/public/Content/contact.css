@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body 
+{
+    background-image: #ffff;
+
+}
+
+.contact-title {
+    color: black;
+}
+
+#wrapper
+{
+    width: 960px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
