@@ -7,6 +7,7 @@ body
 
 .contact-title {
     color: black;
+    margin-left: 550px;
 }
 
 #wrapper
@@ -14,5 +15,5 @@ body
     width: 960px;
     height: 600px;
     margin: 0 auto;
-    background-color: lightblue;
+    background-color: #FFD9C2;
 }
