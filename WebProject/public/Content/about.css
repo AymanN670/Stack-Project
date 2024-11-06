@@ -27,7 +27,7 @@ body {
     margin-left: 700px;
     margin-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: maroon;
+    color: #485563;
     font-size: 24px;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 #wrapper .right-content button:hover {
-    background-color: #29323c;
+    background-color: palevioletred;
 }
 
 figure {
